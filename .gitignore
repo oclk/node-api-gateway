@@ -1,0 +1,4 @@
+.DS_Store
+apigateway/node_modules
+todosservice/node_modules
+userservice/node_modules
